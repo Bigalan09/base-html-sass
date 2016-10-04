@@ -1,5 +1,13 @@
 // base.scss
 
+@import 'variables';
+
+// common
+*, body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: $font-size !important;
+    outline: none;
+}
 body {
   background-color: #f5f5f5;
 }
