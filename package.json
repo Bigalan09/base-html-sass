@@ -1,0 +1,19 @@
+{
+  "name": "base-html-sass",
+  "version": "1.0.0",
+  "description": "A base HTML5, SASS, Gulp, Browser-Sync, Bootstrap, Font-awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigalan09/base-html-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigalan09/base-html-sass/issues"
+  },
+  "homepage": "https://github.com/Bigalan09/base-html-sass#readme"
+}
