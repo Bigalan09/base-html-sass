@@ -10,6 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/Bigalan09/base-html-sass.git"
   },
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "gulp-clean-css": "^2.0.8",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
